@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">monstermatch</string>
+    <string name = "match_monsters_button_text">Match Monster!</string>
+    <string name="game_state"> Start Game</string>
+</resources>
